@@ -1,0 +1,8 @@
+# Configuration for the solar panel efficiency prediction pipeline
+
+data:
+  train_path: 'C:\Users\pc\Downloads\Zelestra AWS ML Ascend Challange - Copy\train.csv'
+  test_path: 'C:\Users\pc\Downloads\Zelestra AWS ML Ascend Challange - Copy\test.csv'
+
+output:
+  dir: 'C:\Users\pc\Downloads\Zelestra AWS ML Ascend Challange - Copy\Submission'
